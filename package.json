@@ -1,0 +1,16 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Bot on 12v discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sladkiy-Murlok",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs-extra": "^9.0.1",
+    "request": "^2.88.2"
+  }
+}
