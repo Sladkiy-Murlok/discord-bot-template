@@ -43,5 +43,3 @@ return //Ru: Игнорировать сообщения в личку. En: Igno
 
 bot.login(token)
 
-
-//taken from Andrew Dark <3
